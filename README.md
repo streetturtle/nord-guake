@@ -13,7 +13,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 
 ## Getting started
 ### Installation
-Run the [`nord.sh`](https://github.com/arcticicestudio/nord-guake/blob/develop/src/sh/nord.sh) shell script to intall the `Nord` color palette.
+Run the [`nord.sh`](https://github.com/arcticicestudio/nord-guake/blob/develop/src/sh/nord.sh) shell script to install the `Nord` color palette.
 
 ## Screenshots
 <p align="center"><strong>htop</strong><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-guake/develop/src/assets/scrot-htop.png"/></p>
